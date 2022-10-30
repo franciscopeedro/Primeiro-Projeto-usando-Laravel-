@@ -7,30 +7,29 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## Sobre o Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Laravel é um framework de aplicação web com sintaxe expressiva e elegante. Acreditamos que o desenvolvimento deve ser uma experiência agradável e criativa para ser verdadeiramente gratificante. O Laravel elimina a dor do desenvolvimento facilitando tarefas comuns usadas em muitos projetos da web, como:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Mecanismo de roteamento simples e rápido](https://laravel.com/docs/routing).
+- [Recipiente de injeção de dependência poderoso](https://laravel.com/docs/container).
+- Vários back-ends para [sessão](https://laravel.com/docs/session) e armazenamento em [cache](https://laravel.com/docs/cache).
+- Banco de dados expressivo e intuitivo [ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [Migrações de esquema](https://laravel.com/docs/migrations).
+- [Processamento robusto de trabalhos em segundo plano](https://laravel.com/docs/queues).
+- [Transmissão de eventos em tempo real](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible,powerful, and provides tools required for large, robust applications.
+O Laravel é acessível, poderoso e fornece as ferramentas necessárias para aplicativos grandes e robustos.
 
-## Learning Laravel
+## Aprendendo Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+O Laravel tem a [documentação](https://laravel.com/docs) mais extensa e completa e a biblioteca de tutoriais em vídeo de todas as estruturas modernas de aplicativos da Web, tornando muito fácil começar a usar a estrutura.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost you and your team's skills by digging into our comprehensive video library.
+Se você não tiver vontade de ler, o [Laracasts](https://laracasts.com) pode ajudar. Laracasts contém mais de 1100 tutoriais em vídeo sobre diversos tópicos, incluindo Laravel, PHP moderno, teste de unidade e JavaScript. Aumente as habilidades de você e de sua equipe explorando nossa abrangente biblioteca de vídeos.
 
-## Laravel Sponsors
+## Patrocinadores do Laravel
 
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Gostaríamos de estender nossos agradecimentos aos seguintes patrocinadores por financiar o desenvolvimento do Laravel. Se você estiver interessado em se tornar um patrocinador, visite a página [Laravel Patreon](https://patreon.com/taylorotwell).
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
@@ -59,10 +58,10 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [Understand.io](https://www.understand.io/)
 - [Abdel Elrafa](https://abdelelrafa.com)
 
-## Contributing
+## Contribuindo
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Obrigado por considerar contribuir para o framework Laravel! O guia de contribuição pode ser encontrado na [documentação do Laravel](https://laravel.com/docs/contributions).
 
-## License
+## Licença
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+O framework Laravel é um software de código aberto licenciado sob a [licença do MIT](https://opensource.org/licenses/MIT).
